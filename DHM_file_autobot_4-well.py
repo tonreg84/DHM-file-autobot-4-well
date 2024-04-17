@@ -1,7 +1,6 @@
 """
 DHM file autobot 4-well
-Autor: Gernot Scheerer, team UMI, CNP-CHUV Lausanne
-gernot.scheerer@hotmail.de
+Autor: tonreg, team UMI, CNP-CHUV Lausanne
 
 Version 01 - 17.04.2024
 
